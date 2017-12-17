@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrudFirebase</string>
+    <string-array name="genres">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Dangdut</item>
+    </string-array>
+</resources>
